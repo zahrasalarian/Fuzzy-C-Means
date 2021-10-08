@@ -5,3 +5,6 @@ This is implemented by using fuzzy values and rules. Each iteration updates the 
 ## The following are some of the results:  
 ### Crisp plot of clusters of dataset no.1
 [![photo-2021-10-08-20-47-07.jpg](https://i.postimg.cc/VsKCDBNC/photo-2021-10-08-20-47-07.jpg)](https://postimg.cc/qgCq7KyJ)
+### Fuzzy plot of clusters of dataset no.3
+[![photo-2021-10-08-20-47-30.jpg](https://i.postimg.cc/Fs1Jqdfn/photo-2021-10-08-20-47-30.jpg)](https://postimg.cc/WhL3q4wM)
+
